@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80c70d4b-d875-4047-a3d5-9fe83a56a473" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/task/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="laravel" />
+  </component>
+  <component name="ProjectId" id="1sf9ZfZ7gxHJoEYMb1YqfBaksKP" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\laravel\orderdb\resources\views" />
+      <recent name="C:\OpenServer\domains\laravel\orderdb\resources\views\layouts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\laravel\orderdb\resources\views" />
+      <recent name="C:\OpenServer\domains\laravel\orderdb\app\Models" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80c70d4b-d875-4047-a3d5-9fe83a56a473" name="Default Changelist" comment="" />
+      <created>1621252833394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621252833394</updated>
+      <workItem from="1621252834771" duration="1735000" />
+      <workItem from="1621341332540" duration="244000" />
+      <workItem from="1621341612267" duration="8944000" />
+      <workItem from="1621425723791" duration="9544000" />
+      <workItem from="1621438700322" duration="1161000" />
+      <workItem from="1621440057078" duration="324000" />
+      <workItem from="1621440412508" duration="186000" />
+      <workItem from="1621496485177" duration="11706000" />
+      <workItem from="1621564339779" duration="357000" />
+      <workItem from="1622449695081" duration="1414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
